@@ -1,0 +1,109 @@
+div img{
+    width: 80px;
+    height: 40px;
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:  center;
+    margin: 10px;
+}
+button{
+    display: flex;
+    flex-direction: row;
+align-items: center;
+}
+.parent .logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:  center;
+}
+.parent .boutique{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 200px;
+}
+.parent .connecter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:  center;
+    margin-right: 10px;
+}
+.logo button{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(145, 145, 240);
+    border-radius: solid 20px white;
+    color: white;
+}
+h4{
+    font-size: 15px;
+}
+.parent div input{
+    background-color: rgb(219, 219, 226);
+    width: 240px;
+    height: 35px;
+    border-radius: 18px;
+    border: 0 transparent solid;
+    
+
+}
+.boutton2{
+    background-color: rgb(226, 21, 21);
+    color: white;
+    border-radius: 20px;
+    border: solid 2px rgb(226, 21, 21) ;
+    padding: 7px;
+    font-size: 15px;
+}
+.boutton1{
+    background-color: rgb(72, 72, 211) !important;
+    color: white;
+    border: solid 1px blue;
+width: 100px;
+margin-left: 10px;
+height: 35px;
+border-radius: 10px;
+
+}
+.connecter div{
+    margin-right: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.parent .recherche{
+    border: solid 1px rgb(219, 219, 226);
+    background-color: rgb(219, 219, 226);
+ padding: 0 10px;
+    border-radius: 18px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.parent .logo img{
+    width: 120px;
+}
+
+/*------deuxieme partie--------*/
+
+.min{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    background-color: rgb(190, 190, 210);
+}
+.hanine{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(190, 190, 210);
+}
+
+
+
